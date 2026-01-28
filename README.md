@@ -1,11 +1,12 @@
 # 📈 Analiza Wpływu AI na Ceny Sprzętu Komputerowego
-## 👤 Autor
-**Tomasz Sudak**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Data-Analysis-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+
+## 👤 Autor
+**Tomasz Sudak**
 
 ## 📋 O Projekcie
 Projekt zaliczeniowy z zakresu analizy szeregów czasowych (Time Series Analysis). Celem badania była weryfikacja hipotezy o wpływie dynamicznego rozwoju sektora sztucznej inteligencji (AI) na realne ceny producentów sprzętu komputerowego.
