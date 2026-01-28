@@ -1,4 +1,6 @@
 # 📈 Analiza Wpływu AI na Ceny Sprzętu Komputerowego
+## 👤 Autor
+**Tomasz Sudak**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
